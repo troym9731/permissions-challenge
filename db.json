@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kevin Lanni"
+    },
+    {
+      "id": 2,
+      "name": "Brad Westfall"
+    },
+    {
+      "id": 3,
+      "name": "Brig Lamoreaux"
+    },
+    {
+      "id": 4,
+      "name": "Student McGee"
+    },
+    {
+      "id": 5,
+      "name": "Joe McStudent"
+    },
+    {
+      "id": 6,
+      "name": "Admin McGee"
+    }
+  ],
+  "permissions": [
+    {
+      "userId": 1,
+      "permissions": "update"
+    },
+    {
+      "userId": 1,
+      "permissions": "read"
+    },
+    {
+      "userId": 2,
+      "permissions": "update"
+    },
+    {
+      "userId": 2,
+      "permissions": "read"
+    },
+    {
+      "userId": 3,
+      "permissions": "update"
+    },
+    {
+      "userId": 3,
+      "permissions": "read"
+    },
+    {
+      "userId": 4,
+      "permissions": "read"
+    },
+    {
+      "userId": 5,
+      "permissions": "read"
+    },
+    {
+      "userId": 6,
+      "permissions": "read"
+    },
+    {
+      "userId": 6,
+      "permissions": "update"
+    },
+    {
+      "userId": 6,
+      "permissions": "delete"
+    },
+    {
+      "userId": 6,
+      "permissions": "create"
+    }
+  ]
+}
